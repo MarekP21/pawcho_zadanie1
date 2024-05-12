@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment-timezone": "^0.5.45"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

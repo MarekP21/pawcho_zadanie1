@@ -216,7 +216,7 @@ CMD ["sh", "-c", "npm start & nginx -g 'daemon off;'"]
 
 ---
 
-### 4. Wykorzystanie narzędzia Docker Scount
+### 4. Wykorzystanie narzędzia Docker Scout
 <p align="justify">Po zrealizowaniu całego zadania trzeba było jeszcze wykazać, że żadne składowe powstałego obrazu nie uzyskują oceny CVSS w zakresie High lub Critical. Wykorzystane zostało w tym celu narzędzie Docker Scout i dostępne w nim następujące polecenia</p>
 
        docker scout quickview local/marek_zad1:v0
